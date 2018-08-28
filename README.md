@@ -11,3 +11,6 @@ react-mobile
 
 ![Image text](https://github.com/Chloe-huang/PROJECT--REACT/tree/master/src/containers/Images/Sweet.gif)
 
+
+进入 server 执行 node server 伪造http数据
+
